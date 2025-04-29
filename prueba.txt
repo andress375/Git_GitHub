@@ -12,3 +12,5 @@ la fecha es 2026.
 modificamos usuario y contraseña.
 
 retomando git
+
+git show agregado
