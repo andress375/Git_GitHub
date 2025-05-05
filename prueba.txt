@@ -14,3 +14,5 @@ modificamos usuario y contraseña.
 retomando git
 
 git show agregado
+
+estoy editando desde GitHub
