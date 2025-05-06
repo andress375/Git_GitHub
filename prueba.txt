@@ -33,3 +33,5 @@ hola a todos de nuevo
 envio de cambios a repo local
 
 envio de cambios a repo remoto
+
+git
