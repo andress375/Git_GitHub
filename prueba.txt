@@ -35,3 +35,4 @@ envio de cambios a repo local
 envio de cambios a repo remoto
 
 git
+cambio remoto
