@@ -50,3 +50,5 @@ CARLOS esta arreglando un bug
 nuevo bug
 
 modificando
+
+bug
