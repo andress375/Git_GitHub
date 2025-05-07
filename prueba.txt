@@ -42,3 +42,5 @@ hola
 hola de nuevo
 
 diseño completo
+
+estamos arreglando un bug
