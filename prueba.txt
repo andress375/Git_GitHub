@@ -57,3 +57,5 @@ nuevo bug
 modificando
 
 bug
+
+cree un err
