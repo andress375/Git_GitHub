@@ -40,3 +40,5 @@ cambio remoto
 hola
 
 hola de nuevo
+
+usuario2 esta haciendo cambios
