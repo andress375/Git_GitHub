@@ -58,4 +58,4 @@ modificando
 
 bug
 
-cree un err
+arregle un error
