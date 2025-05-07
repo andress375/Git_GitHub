@@ -48,3 +48,5 @@ estamos arreglando un bug
 CARLOS esta arreglando un bug
 
 nuevo bug
+
+modificando
