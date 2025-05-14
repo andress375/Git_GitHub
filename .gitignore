@@ -1,1 +1,4 @@
 /imagenes
+/imagenes/*
+/imagenes/**/*.png
+*.jpg
